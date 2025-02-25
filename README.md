@@ -67,7 +67,7 @@ This system is a **RAG-based chatbot** that retrieves responses from a **knowled
 
 ## **💡 Example Workflow**
 1. **User Input:**  
-   _"What are the key security guidelines mentioned in the compliance PDF?"_
+   _"Tell me something about the CBDC?"_
    
 2. **Processing Steps:**
    - The query is **embedded** using **nomic-embed-text**.
@@ -77,7 +77,7 @@ This system is a **RAG-based chatbot** that retrieves responses from a **knowled
    - The LLM generates a **context-aware response**.
 
 3. **Final Output:**  
-   _"The compliance PDF outlines key security guidelines such as data encryption, multi-factor authentication, and periodic security audits."_
+   _"CBDC is central bank digital currency which is also known as e-Ruppee, it's under pilot program run by RBI and is expected to launch in 2025."_
 
 ---
 
