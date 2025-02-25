@@ -1,4 +1,4 @@
-Here's the updated **technical architecture and solution design**, replacing **Streamlit** with **Vite + TypeScript** for the frontend.
+
 
 ---
 
@@ -100,4 +100,4 @@ This system is a **RAG-based chatbot** that retrieves responses from a **knowled
 
 ---
 
-Would you like a **code snippet for the Vite + TypeScript frontend**? 🚀
+🚀🚀
